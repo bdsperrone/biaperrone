@@ -8,5 +8,5 @@
 <div>
   <a href="https://www.linkedin.com/in/biaperrone"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdsperrone&theme=chartreuse-dark&show_icons=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsperrone&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsperrone&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
